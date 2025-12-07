@@ -1,0 +1,140 @@
+SKUCount: 20
+ID: 101
+Name: DairyMilk
+Category: Chocolates
+Price: 50.00
+Stock: 120
+Sold: 80
+
+ID: 102
+Name: Bread
+Category: Bakery
+Price: 40.00
+Stock: 90
+Sold: 70
+
+ID: 103
+Name: MilkShake
+Category: Beverages
+Price: 60.00
+Stock: 60
+Sold: 45
+
+ID: 104
+Name: Chips
+Category: Snacks
+Price: 20.00
+Stock: 150
+Sold: 100
+
+ID: 105
+Name: Eggs
+Category: Dairy
+Price: 6.00
+Stock: 200
+Sold: 160
+
+ID: 106
+Name: Butter
+Category: Dairy
+Price: 80.00
+Stock: 50
+Sold: 35
+
+ID: 107
+Name: Juice
+Category: Beverages
+Price: 30.00
+Stock: 100
+Sold: 60
+
+ID: 108
+Name: Cookies
+Category: Bakery
+Price: 45.00
+Stock: 110
+Sold: 75
+
+ID: 109
+Name: GreenTea
+Category: Beverages
+Price: 90.00
+Stock: 40
+Sold: 25
+
+ID: 110
+Name: Pasta
+Category: Grocery
+Price: 70.00
+Stock: 70
+Sold: 55
+
+ID: 111
+Name: Rice
+Category: Grocery
+Price: 55.00
+Stock: 80
+Sold: 60
+
+ID: 112
+Name: Sugar
+Category: Grocery
+Price: 45.00
+Stock: 100
+Sold: 80
+
+ID: 113
+Name: Soap
+Category: PersonalCare
+Price: 25.00
+Stock: 130
+Sold: 95
+
+ID: 114
+Name: Shampoo
+Category: PersonalCare
+Price: 120.00
+Stock: 60
+Sold: 40
+
+ID: 115
+Name: Toothpaste
+Category: PersonalCare
+Price: 65.00
+Stock: 75
+Sold: 50
+
+ID: 116
+Name: Coffee
+Category: Beverages
+Price: 150.00
+Stock: 30
+Sold: 20
+
+ID: 117
+Name: CornFlakes
+Category: Breakfast
+Price: 130.00
+Stock: 40
+Sold: 25
+
+ID: 118
+Name: Ketchup
+Category: Condiments
+Price: 90.00
+Stock: 50
+Sold: 35
+
+ID: 119
+Name: IceCream
+Category: Desserts
+Price: 100.00
+Stock: 45
+Sold: 30
+
+ID: 120
+Name: Biscuit
+Category: Snacks
+Price: 35.00
+Stock: 140
+Sold: 90

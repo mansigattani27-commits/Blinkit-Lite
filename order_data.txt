@@ -1,0 +1,90 @@
+OrderCount: 10
+
+OrderID: 1
+Status: Delivered
+OrderTime: 1010
+DeliveryTime: 1100
+Subtotal: 250.00
+Items:
+  101 x 2
+  104 x 3
+
+OrderID: 2
+Status: Placed
+OrderTime: 1025
+DeliveryTime: 0
+Subtotal: 195.00
+Items:
+  108 x 2
+  112 x 1
+
+OrderID: 3
+Status: Cancelled
+OrderTime: 1040
+DeliveryTime: 0
+Subtotal: 90.00
+Items:
+  107 x 3
+
+OrderID: 4
+Status: Delivered
+OrderTime: 1055
+DeliveryTime: 1150
+Subtotal: 365.00
+Items:
+  102 x 4
+  105 x 5
+
+OrderID: 5
+Status: Placed
+OrderTime: 1070
+DeliveryTime: 0
+Subtotal: 210.00
+Items:
+  109 x 1
+  118 x 2
+
+OrderID: 6
+Status: Delivered
+OrderTime: 1085
+DeliveryTime: 1180
+Subtotal: 480.00
+Items:
+  111 x 3
+  110 x 4
+
+OrderID: 7
+Status: Placed
+OrderTime: 1100
+DeliveryTime: 0
+Subtotal: 160.00
+Items:
+  113 x 2
+  115 x 1
+
+OrderID: 8
+Status: Delivered
+OrderTime: 1115
+DeliveryTime: 1210
+Subtotal: 520.00
+Items:
+  116 x 2
+  117 x 1
+
+OrderID: 9
+Status: Cancelled
+OrderTime: 1130
+DeliveryTime: 0
+Subtotal: 145.00
+Items:
+  119 x 1
+  120 x 1
+
+OrderID: 10
+Status: Placed
+OrderTime: 1145
+DeliveryTime: 0
+Subtotal: 335.00
+Items:
+  101 x 1
+  108 x 3
