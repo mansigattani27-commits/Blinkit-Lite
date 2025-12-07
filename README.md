@@ -1,6 +1,6 @@
 # Blinkit-Lite
 <br>
-<h1>Blinkit-Lite</h1>
+
 
 <h2>Blinkit-Lite Quick-Commerce</h2>
 <p>
